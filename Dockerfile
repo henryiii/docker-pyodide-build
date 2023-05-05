@@ -1,6 +1,6 @@
 FROM python:3.11
 
-ARG PYODIDE=0.23.1
+ARG PYODIDE=0.23.2
 
 LABEL description="A docker image for building wheels with Pyodide"
 LABEL maintainer="Henry Schreiner"
